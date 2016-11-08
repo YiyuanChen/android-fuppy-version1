@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_2ed322634d28d65b80a0b01db890aa5426584fb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7b808c50c94edf7e22c8a31ee1afd132f0b415a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_72e965efa920d9143fbb273e3a58dd84041e192a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_76132c9739dfc509ca5a5a62976758e3317cc10b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_fc176ebc73edb6337b9c9b47af34b55e60619ec5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_e1cf0878055ae489fe86ea7cc7b637fe7cf10ce6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="faf2b615731077aa2d15de7107bf8809e84374c2">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d15b25ddd236bc41b9fe6f00f1f6038118b373ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d59cb32e9ce03fc84ec59cce0bbf3b62b5e660ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/libs/mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/2/mail_aca9e6ae62c9ab94aa1b2d1cb552d708971519e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_9bcb333637844e548241cdb825944f4a358d55eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_050b51d134b7eb73c96968ae901849a19b96c448/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_83ea9efd4e301eefe3c03d3b3108d3085cbb85f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/libs/activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/2/activation_6885a5206f54aace17eecc9c9f5e41ee038c1d2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_846a0f56ede94d941ae75521c2f2b8261cb186be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_11e5b4ef4a9cc11acf67600a104a7a2aa09ad305/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_85d30860b2ef8a1cc264e33a881d2316f43d1e48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/libs/additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/2/additionnal_cee685554a50e2c9c076d5fd1330d7b5171c8341/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_0095f0f8aea986752f8467ef2474675c0e76abc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_96638525c8a9dd630c54e8dd14f0fa2456e357a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_9bbe3f840714a62ac6b89c888db9577565f26a8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_dc36a6daef28753400d81e4dede13f272df8037b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_424b522b73ae9f80852aba266cc7bf842f801b2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1a4948fee2213a69001cdf10fcbd2100571e478a">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1ea9cc368d5e2bf4205bca3b7d075e5bd9c07a44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/1.0.4/8e25da5e31669f5acf514bdd99b94ff5c7003b3b/kotlin-runtime-1.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e25da5e31669f5acf514bdd99b94ff5c7003b3b">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-runtime-1.0.4_c1574557dbe938bfe42d915b7355ccd15d51e51c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.4/9c8d1a5d2eea3c9a7f58baa1a2fa11498cb41d0/kotlin-stdlib-1.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09c8d1a5d2eea3c9a7f58baa1a2fa11498cb41d0">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-1.0.4_66f2d8de19fa4aa212e17245b71bbacc5c8af104/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/libs/java-petfinder-api-master.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="167b92704718613c11f5762e871c3063637c25c0">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/2/java-petfinder-api-master_b9a462f807e53000728444e85d66e6786ebc7db1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_eeded8ca1796d19f7c42723076f7d9da931eed0b/classes.dex" />
+    </item>
+
+</items>

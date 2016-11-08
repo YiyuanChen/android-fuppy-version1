@@ -1,0 +1,7 @@
+#Tue Nov 08 11:53:52 PST 2016
+base.0=/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1ea9cc368d5e2bf4205bca3b7d075e5bd9c07a44
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d15b25ddd236bc41b9fe6f00f1f6038118b373ed/classes.dex
+base.1=/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d15b25ddd236bc41b9fe6f00f1f6038118b373ed
+file.0=/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1ea9cc368d5e2bf4205bca3b7d075e5bd9c07a44/classes.dex

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/menu.png",
+        "source": "/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/src/main/res/mipmap-xxhdpi/menu.png"
+    },
+    {
+        "merged": "/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/previous.png",
+        "source": "/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/src/main/res/mipmap-xxhdpi/previous.png"
+    },
+    {
+        "merged": "/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/next.png",
+        "source": "/Users/Ayumu/AndroidStudioProjects/android-fuppy-version1/app/src/main/res/mipmap-xxhdpi/next.png"
+    }
+]

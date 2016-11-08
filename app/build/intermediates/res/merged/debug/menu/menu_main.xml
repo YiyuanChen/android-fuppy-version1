@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu"
+        app:showAsAction="ifRoom|withText"
+        android:icon="@mipmap/menu"
+        android:title="Menu">
+    </item>
+</menu>
